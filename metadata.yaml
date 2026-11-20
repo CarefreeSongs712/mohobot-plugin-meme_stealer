@@ -1,0 +1,10 @@
+name: meme_stealer
+author: CarefreeSongs712
+display_name: 表情包小偷
+version: 1.0.0
+description: 表情包收集、检索与发送
+repo: https://github.com/CarefreeSongs712/mohobot-plugin-meme_stealer
+license: AGPL-3.0
+api_version: 1
+mohobot_version: ">=0.1.0"
+tags: [meme]
